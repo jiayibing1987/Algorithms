@@ -8,7 +8,9 @@ import java.util.Scanner;
  * 3. AVL trees store balance factors or heights with each node, thus requires storage 
  * for an integer per node whereas Red Black Tree requires only 1 bit of information per node.
  * 4. Red Black Trees are used in most of the language libraries like map, set 
- * whereas AVL trees are used in databases where faster retrievals are required.
+ * whereas AVL trees are used in databases.
+ * 
+ * 
  * @author Ryan
  */
 public class RedBlackBST {
